@@ -84,6 +84,9 @@ Then user is re-directed into the login page
 ## UI Draft
 ![UI-Draft](https://github.com/Amayorga1/DietFix/blob/master/DietFixWireframeDraft-page-001.jpg?raw=true)
 
+## Database Diagram
+![DatabaseDiagram](https://github.com/Amayorga1/Diet-Fix/blob/master/Info/Database%20Diagram.PNG?raw=true)
+
 ## Requirements Table
 Req. ID | Description | Test Method | Test ID
 --------|-------------|-------------|----------
