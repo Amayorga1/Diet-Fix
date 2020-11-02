@@ -95,7 +95,7 @@ Req. ID | Description | Test Method | Test ID
 1.3 | When user logs in, The system shall direct user to user account page | Usability Test |T01.3
 1.4 | When user inputs incorrect information, system shall deny access | Security Test | T02.1
 2.1 | When user inputs BMI information, the system shall calculate BMI then show user | Usability Test | T02.2
-2.2 | When user inputs Macros, the system shall input user Macros on pie chart along with reccomended Macro intake for other diet plans matching user BMI | Test | T03.1
+2.2 | When user inputs their current cost for food, the system shall calulate the savings per each diet plan| Test | T03.1
 2.3 | When user selects certain diet plan, the system shall direct user to informational guide for that certain diet plan | Test | T03.2
 2.4 | When user selects meal plans, the system shall direct user to meal plan for selected diet plan| Test| T08
 2.5 | If user decides to change diet plan, system shall redirect to new meal plan| Test | T09
@@ -105,11 +105,11 @@ Req. ID | Description | Test Method | Test ID
 
 Test ID | Req. ID | Test Procedure | Current Status | TimeStamp | build/version
 ------------ | ------------ | ------------- | ------------- | ------------- | --------------
-T01 | 1.1<br/>1.2<br/>1.3 |  The program will Contain the user information and allow access for entry to account page | Not Tested ||
-T02 | 1.4<br/>3.0 | Application verifies log in information and will log out if idle for 2 minutes | Not Tested ||
-T03 | 2.1<br/>2.2 | Application will calculate Macros and will be on a Pie chart when information is entered | Not Tested ||
-T04 | 2.2<br/>2.3 | Application will use the calculations given by the macro chart to reccomend a diet for User | Not Tested ||
-T05 | 2.4 | Application displays information for selected meal plan | Not Tested ||
+T01 | 1.1<br/>1.2<br/>1.3 |The program will Contain the user information and allow access for entry to account page | Not Tested ||
+T02 | 1.4<br/>3.0 | Application verifies log in information and will restrict usage of app until an account is made | Not Tested ||
+T03 | 2.1<br/>2.2 | The program will allow user to change user information | Not Tested ||
+T04 | 2.2<br/>2.3 |Application will display and allow access to each diet type and calculate the savings per diet type.| Not Tested ||
+T05 | 2.4 | Application displays information for selected diet type | Not Tested ||
 T06 | 2.5 | Application will change the diet plan to a new diet plan | Not Tested ||
 
 [(Back To Top)](#table-of-contents)
