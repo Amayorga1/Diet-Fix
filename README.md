@@ -131,10 +131,10 @@ T06 | 2.5 | Application will change the diet plan to a new diet plan | Passed | 
 
 [(Back To Top)](#table-of-contents)
 
-## Prototype BMI
-![Prototype 1.1](https://github.com/Amayorga1/DietFix/blob/master/Project%209.1.PNG?raw=true)
+## Prototype Login
+![Prototype 1.1](https://github.com/Amayorga1/Diet-Fix/blob/master/Prototype%20Login.PNG?raw=true)
 
-![Protyotype 1.2](https://github.com/Amayorga1/DietFix/blob/master/Project%209.2.PNG?raw=true)
+![Protyotype 1.2](https://github.com/Amayorga1/Diet-Fix/blob/master/Login%20Prototype%202.PNG?raw=true)
 
 
 [(Back To Top)](#table-of-contents)
