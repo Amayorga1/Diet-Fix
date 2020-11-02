@@ -105,12 +105,12 @@ Req. ID | Description | Test Method | Test ID
 
 Test ID | Req. ID | Test Procedure | Current Status | TimeStamp | build/version
 ------------ | ------------ | ------------- | ------------- | ------------- | --------------
-T01 | 1.1<br/>1.2<br/>1.3 |The program will Contain the user information and allow access for entry to account page | Not Tested ||
-T02 | 1.4<br/>3.0 | Application verifies log in information and will restrict usage of app until an account is made | Not Tested ||
-T03 | 2.1<br/>2.2 | The program will allow user to change user information | Not Tested ||
-T04 | 2.2<br/>2.3 |Application will display and allow access to each diet type and calculate the savings per diet type.| Not Tested ||
-T05 | 2.4 | Application displays information for selected diet type | Not Tested ||
-T06 | 2.5 | Application will change the diet plan to a new diet plan | Not Tested ||
+T01 | 1.1<br/>1.2<br/>1.3 |The program will Contain the user information and allow access for entry to account page | Passed | 01/Nov/2020 6:05pm | 1.1
+T02 | 1.4<br/>3.0 | Application verifies log in information and will restrict usage of app until an account is made | Passed | 01/Nov/2020 6:10pm | 1.1
+T03 | 2.1<br/>2.2 | The program will allow user to change user information | Passed | 01/Nov/2020 6:15pm | 1.1
+T04 | 2.2<br/>2.3 |Application will display and allow access to each diet type and calculate the savings per diet type.| Passed | 01/Nov/2020 6:20pm | 1.1
+T05 | 2.4 | Application displays information for selected diet type | Passed | 01/Nov/2020 6:25pm | 1.1
+T06 | 2.5 | Application will change the diet plan to a new diet plan | Passed | 01/Nov/2020 6:35pm | 1.1
 
 [(Back To Top)](#table-of-contents)
 
