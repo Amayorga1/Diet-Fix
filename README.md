@@ -8,7 +8,7 @@
 5. [UI Draft](#UI-Draft)
 6. [Requirements](#Requirements)
 7. [Test Table](#Test-Table)
-8. [Requirements Traceability Matrix] (#Requirements-Traceability-Matrix)
+8. [Requirements Traceability Matrix](#Requirements-Traceability-Matrix)
 8. [Prototype BMI](#Prototype-BMI)
 
 
