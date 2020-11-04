@@ -6,9 +6,8 @@
 3. [Use Cases](#Use-Cases)
 4. [Use Case Diagram](#Use-Case-Digram)
 5. [UI Draft](#UI-Draft)
-6. [Requirements](#Requirements)
-7. [Test Table](#Test-Table)
-8. [Requirements Traceability Matrix](#Requirements-Traceability-Matrix)
+6. [Test Table](#Test-Table)
+7. [Requirements Traceability Matrix](#Requirements-Traceability-Matrix)
 8. [Prototype BMI](#Prototype-BMI)
 
 
@@ -88,18 +87,7 @@ Then user is re-directed into the login page
 ## Database Diagram
 ![DatabaseDiagram](https://github.com/Amayorga1/Diet-Fix/blob/master/Info/Database%20Diagram.PNG?raw=true)
 
-## Requirements Table
-Req. ID | Description | Test Method | Test ID
---------|-------------|-------------|----------
-1.1 | When user downloads app and creates username and password, system shall contain information on database| Test | T01.1
-1.2 | When user logs in system shall verify credentials | Test | T01.2
-1.3 | When user logs in, The system shall direct user to user account page | Usability Test |T01.3
-1.4 | When user inputs incorrect information, system shall deny access | Security Test | T02.1
-2.1 | When user inputs BMI information, the system shall calculate BMI then show user | Usability Test | T02.2
-2.2 | When user inputs their current cost for food, the system shall calulate the savings per each diet plan| Test | T03.1
-2.3 | When user selects certain diet plan, the system shall direct user to informational guide for that certain diet plan | Test | T03.2
-2.4 | When user selects meal plans, the system shall direct user to meal plan for selected diet plan| Test| T08
-2.5 | If user decides to change diet plan, system shall redirect to new meal plan| Test | T09
+
 
 
   ## Test Table
@@ -112,6 +100,7 @@ T03 | 2.1<br/>2.2 | The program will allow user to change user information | Pas
 T04 | 2.2<br/>2.3 |Application will display and allow access to each diet type and calculate the savings per diet type.| Passed | 01/Nov/2020  | 1.1
 T05 | 2.4 | Application displays information for selected diet type | Passed | 01/Nov/2020| 1.1
 T06 | 2.5 | Application will change the diet plan to a new diet plan | Passed | 01/Nov/2020 | 1.1
+
 
 
 
